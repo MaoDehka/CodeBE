@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\dependancesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\dependancesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\filesystemhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\filesystemhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\dependancetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\dependancetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\dependancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\dependancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\dependancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\dependancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|o:\\me\\application code be\\d\u00E9pendances\\pgm\\updatedependances\\updatedependances\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DA72C8A-0843-4051-A6A6-68680CE2E90F}|UpdateDependances\\UpdateDependances.csproj|solutionrelative:updatedependances\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependancesProcessor.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependancesProcessor.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\DependancesProcessor.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependancesProcessor.cs",
+              "RelativeToolTip": "UpdateDependances\\DependancesProcessor.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwH4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:33:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\ProjectInstaller.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\ProjectInstaller.cs",
+              "RelativeToolTip": "UpdateDependances\\ProjectInstaller.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:31:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\ProjectInstaller.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "UpdateDependances\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:31:26.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSystemHelper.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\FileSystemHelper.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\FileSystemHelper.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\FileSystemHelper.cs",
+              "RelativeToolTip": "UpdateDependances\\FileSystemHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:25:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\SqlHelper.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\SqlHelper.cs",
+              "RelativeToolTip": "UpdateDependances\\SqlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:21:47.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\Logger.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\Logger.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\Logger.cs",
+              "RelativeToolTip": "UpdateDependances\\Logger.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:20:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\AppSettings.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\AppSettings.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\AppSettings.cs",
+              "RelativeToolTip": "UpdateDependances\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:19:47.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependanceTypes.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependanceTypes.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\DependanceTypes.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependanceTypes.cs",
+              "RelativeToolTip": "UpdateDependances\\DependanceTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:17:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\Program.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\Program.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\Program.cs",
+              "RelativeToolTip": "UpdateDependances\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:13:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0672c6e1-9edf-3be9-8226-f0823640821e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependancesService.cs [Design]",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependancesService.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\DependancesService.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependancesService.cs [Design]",
+              "RelativeToolTip": "UpdateDependances\\DependancesService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:45:36.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependancesService.cs",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependancesService.cs",
+              "RelativeDocumentMoniker": "UpdateDependances\\DependancesService.cs",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\DependancesService.cs",
+              "RelativeToolTip": "UpdateDependances\\DependancesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:45:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\App.config",
+              "RelativeDocumentMoniker": "UpdateDependances\\App.config",
+              "ToolTip": "O:\\Me\\Application Code BE\\D\u00E9pendances\\Pgm\\UpdateDependances\\UpdateDependances\\App.config",
+              "RelativeToolTip": "UpdateDependances\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T14:11:38.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
